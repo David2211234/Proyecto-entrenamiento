@@ -1,0 +1,131 @@
+
+
+body {
+
+
+
+font-family: Arial, sans-serif;
+
+ }
+
+ header {
+
+
+
+background-color: #d90ad9;
+
+
+
+color: white;
+
+ }
+
+
+/* Estilos del Menu de Navegacion */
+
+
+ .navbar {
+
+
+background-color:gray;
+
+ }
+
+ .navbar .nav-Link {
+
+ color: black;
+
+ }
+
+
+
+
+
+.navbar .nav-Link:hover {
+
+
+
+color:#0056b3;
+
+ }
+
+
+
+
+
+/* Estilos de las tarjetas */
+
+.card {
+
+
+
+border: solid 5px #6f60e2;
+
+ }
+
+
+
+.card .btn {
+
+ background-color:darkgray;
+
+
+
+color: white;
+
+ }
+
+
+
+
+.card.btn:hover {
+
+ background-color: #6f60e2;
+
+ }
+
+
+
+.btn-primary {
+
+
+
+background-color:darkgray;
+
+
+
+
+
+border-color:darkgray;
+
+color: white;
+
+ }
+
+
+
+
+
+.btn-primary:hover {
+
+
+background-color:gray;
+
+ }
+
+
+
+
+
+/* Footer Styles */
+
+ footer {
+
+ background-color:#D3D3D3;
+
+
+
+color: black;
+
+
+ }
